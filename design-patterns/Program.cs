@@ -6,7 +6,7 @@ namespace design_patterns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Exercise2.Exercise2.start();
         }
     }
 }

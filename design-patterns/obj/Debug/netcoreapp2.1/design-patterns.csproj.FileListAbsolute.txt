@@ -9,3 +9,8 @@ C:\Git\design-patterns\design-patterns\obj\Debug\netcoreapp2.1\design-patterns.A
 C:\Git\design-patterns\design-patterns\obj\Debug\netcoreapp2.1\design-patterns.AssemblyInfo.cs
 C:\Git\design-patterns\design-patterns\obj\Debug\netcoreapp2.1\design-patterns.dll
 C:\Git\design-patterns\design-patterns\obj\Debug\netcoreapp2.1\design-patterns.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\exercise1.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise2.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\exercise1.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise2.pdb
+C:\Git\design-patterns\design-patterns\obj\Debug\netcoreapp2.1\design-patterns.csproj.CopyComplete

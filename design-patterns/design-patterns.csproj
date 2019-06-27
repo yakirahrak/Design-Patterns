@@ -6,4 +6,9 @@
     <RootNamespace>design_patterns</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\exercise1\exercise1.csproj" />
+    <ProjectReference Include="..\Exercise2\Exercise2.csproj" />
+  </ItemGroup>
+
 </Project>

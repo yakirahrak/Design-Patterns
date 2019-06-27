@@ -29,7 +29,14 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Git\\design-patterns\\exercise1\\exercise1.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\exercise1\\exercise1.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -53,6 +60,28 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      }
+    },
+    "C:\\Git\\design-patterns\\exercise1\\exercise1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\exercise1\\exercise1.csproj",
+        "projectName": "exercise1",
+        "projectPath": "C:\\Git\\design-patterns\\exercise1\\exercise1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj",
+        "projectName": "Exercise2",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

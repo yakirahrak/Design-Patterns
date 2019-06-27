@@ -1,0 +1,6 @@
+C:\Git\design-patterns\Exercise10\bin\Debug\Exercise10.dll
+C:\Git\design-patterns\Exercise10\bin\Debug\Exercise10.pdb
+C:\Git\design-patterns\Exercise10\obj\Debug\Exercise10.csprojAssemblyReference.cache
+C:\Git\design-patterns\Exercise10\obj\Debug\Exercise10.csproj.CoreCompileInputs.cache
+C:\Git\design-patterns\Exercise10\obj\Debug\Exercise10.dll
+C:\Git\design-patterns\Exercise10\obj\Debug\Exercise10.pdb

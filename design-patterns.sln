@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-patterns", "design-patterns\design-patterns.csproj", "{BED61EC6-63EA-47DA-B363-DC2667E721F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "design-patterns", "design-patterns\design-patterns.csproj", "{BED61EC6-63EA-47DA-B363-DC2667E721F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "exercise1\Exercise1.csproj", "{BDF8B4C1-DDF5-41DB-9C76-4A2CB7D6858B}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise6", "Exercise6\Exercise6.csproj", "{6E9A3A5E-6101-4951-AD6C-BEA2445E175A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise8", "Exercise8\Exercise8.csproj", "{FD531339-430A-4C4B-8952-7F2A092F4827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise12", "Exercise12\Exercise12.csproj", "{9CCA9EEA-E07A-43D4-9AFB-0343CD2FA126}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{FD531339-430A-4C4B-8952-7F2A092F4827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD531339-430A-4C4B-8952-7F2A092F4827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD531339-430A-4C4B-8952-7F2A092F4827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCA9EEA-E07A-43D4-9AFB-0343CD2FA126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCA9EEA-E07A-43D4-9AFB-0343CD2FA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCA9EEA-E07A-43D4-9AFB-0343CD2FA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCA9EEA-E07A-43D4-9AFB-0343CD2FA126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

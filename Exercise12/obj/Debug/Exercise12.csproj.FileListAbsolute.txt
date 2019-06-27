@@ -1,0 +1,6 @@
+C:\Git\design-patterns\Exercise12\bin\Debug\Exercise12.dll
+C:\Git\design-patterns\Exercise12\bin\Debug\Exercise12.pdb
+C:\Git\design-patterns\Exercise12\obj\Debug\Exercise12.csprojAssemblyReference.cache
+C:\Git\design-patterns\Exercise12\obj\Debug\Exercise12.csproj.CoreCompileInputs.cache
+C:\Git\design-patterns\Exercise12\obj\Debug\Exercise12.dll
+C:\Git\design-patterns\Exercise12\obj\Debug\Exercise12.pdb

@@ -1,0 +1,5 @@
+C:\Git\design-patterns\Exercise8\bin\Debug\Exercise8.dll
+C:\Git\design-patterns\Exercise8\bin\Debug\Exercise8.pdb
+C:\Git\design-patterns\Exercise8\obj\Debug\Exercise8.csproj.CoreCompileInputs.cache
+C:\Git\design-patterns\Exercise8\obj\Debug\Exercise8.dll
+C:\Git\design-patterns\Exercise8\obj\Debug\Exercise8.pdb

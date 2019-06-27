@@ -20,3 +20,13 @@ C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise7.dll
 C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise3.pdb
 C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise5.pdb
 C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise7.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise10.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise12.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise6.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise8.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise9.dll
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise10.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise12.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise6.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise8.pdb
+C:\Git\design-patterns\design-patterns\bin\Debug\netcoreapp2.1\Exercise9.pdb

@@ -51,7 +51,7 @@ namespace Exercise9
         }
     }
 
-    public class HybridClassFactory:CarFactory
+    public class HybridCarFactory:CarFactory
     {
         public override ACBase CreateAC()
         {

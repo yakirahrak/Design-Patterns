@@ -3,3 +3,4 @@ C:\Git\design-patterns\Exercise9\bin\Debug\Exercise9.pdb
 C:\Git\design-patterns\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
 C:\Git\design-patterns\Exercise9\obj\Debug\Exercise9.dll
 C:\Git\design-patterns\Exercise9\obj\Debug\Exercise9.pdb
+C:\Git\design-patterns\Exercise9\obj\Debug\Exercise9.csprojAssemblyReference.cache

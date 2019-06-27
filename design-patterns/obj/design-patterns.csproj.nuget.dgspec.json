@@ -30,6 +30,12 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
+              "C:\\Git\\design-patterns\\Exercise10\\Exercise10.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise10\\Exercise10.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise12\\Exercise12.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise12\\Exercise12.csproj"
+              },
               "C:\\Git\\design-patterns\\exercise1\\Exercise1.csproj": {
                 "projectPath": "C:\\Git\\design-patterns\\exercise1\\Exercise1.csproj"
               },
@@ -42,8 +48,17 @@
               "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj": {
                 "projectPath": "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj"
               },
+              "C:\\Git\\design-patterns\\Exercise6\\Exercise6.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise6\\Exercise6.csproj"
+              },
               "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj": {
                 "projectPath": "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise8\\Exercise8.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise8\\Exercise8.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise9\\Exercise9.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise9\\Exercise9.csproj"
               }
             }
           }
@@ -69,6 +84,28 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise10\\Exercise10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise10\\Exercise10.csproj",
+        "projectName": "Exercise10",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise10\\Exercise10.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise12\\Exercise12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise12\\Exercise12.csproj",
+        "projectName": "Exercise12",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise12\\Exercise12.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     },
     "C:\\Git\\design-patterns\\exercise1\\Exercise1.csproj": {
@@ -115,12 +152,45 @@
         "net472": {}
       }
     },
+    "C:\\Git\\design-patterns\\Exercise6\\Exercise6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise6\\Exercise6.csproj",
+        "projectName": "Exercise6",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise6\\Exercise6.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj": {
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj",
         "projectName": "Exercise7",
         "projectPath": "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise8\\Exercise8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise8\\Exercise8.csproj",
+        "projectName": "Exercise8",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise8\\Exercise8.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise9\\Exercise9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise9\\Exercise9.csproj",
+        "projectName": "Exercise9",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise9\\Exercise9.csproj"
       },
       "frameworks": {
         "net472": {}

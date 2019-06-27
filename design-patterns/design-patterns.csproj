@@ -7,11 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Exercise10\Exercise10.csproj" />
+    <ProjectReference Include="..\Exercise12\Exercise12.csproj" />
     <ProjectReference Include="..\exercise1\Exercise1.csproj" />
     <ProjectReference Include="..\Exercise2\Exercise2.csproj" />
     <ProjectReference Include="..\Exercise3\Exercise3.csproj" />
     <ProjectReference Include="..\Exercise5\Exercise5.csproj" />
+    <ProjectReference Include="..\Exercise6\Exercise6.csproj" />
     <ProjectReference Include="..\Exercise7\Exercise7.csproj" />
+    <ProjectReference Include="..\Exercise8\Exercise8.csproj" />
+    <ProjectReference Include="..\Exercise9\Exercise9.csproj" />
   </ItemGroup>
 
 </Project>

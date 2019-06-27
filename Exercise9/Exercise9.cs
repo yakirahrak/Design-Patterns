@@ -8,5 +8,10 @@ namespace Exercise9
 {
     public class Exercise9
     {
+        public static void Start()
+        {
+            CarFactory factory = new NormalCarFactory();
+            factory.CreateAC();
+        }
     }
 }

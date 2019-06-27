@@ -35,6 +35,15 @@
               },
               "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj": {
                 "projectPath": "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise3\\Exercise3.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise3\\Exercise3.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj"
+              },
+              "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj": {
+                "projectPath": "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj"
               }
             }
           }
@@ -79,6 +88,39 @@
         "projectUniqueName": "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj",
         "projectName": "Exercise2",
         "projectPath": "C:\\Git\\design-patterns\\Exercise2\\Exercise2.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise3\\Exercise3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise3\\Exercise3.csproj",
+        "projectName": "Exercise3",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise3\\Exercise3.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj",
+        "projectName": "Exercise5",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise5\\Exercise5.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj",
+        "projectName": "Exercise7",
+        "projectPath": "C:\\Git\\design-patterns\\Exercise7\\Exercise7.csproj"
       },
       "frameworks": {
         "net472": {}

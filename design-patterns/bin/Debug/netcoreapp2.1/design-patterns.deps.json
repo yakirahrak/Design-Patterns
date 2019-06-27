@@ -8,14 +8,14 @@
     ".NETCoreApp,Version=v2.1": {
       "design-patterns/1.0.0": {
         "dependencies": {
-          "Exercise2": "1.0.0",
-          "exercise1": "1.0.0"
+          "Exercise1": "1.0.0",
+          "Exercise2": "1.0.0"
         },
         "runtime": {
           "design-patterns.dll": {}
         }
       },
-      "exercise1/1.0.0": {
+      "Exercise1/1.0.0": {
         "runtime": {
           "exercise1.dll": {}
         }
@@ -33,7 +33,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "exercise1/1.0.0": {
+    "Exercise1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
